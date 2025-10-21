@@ -16,7 +16,7 @@ LesionSegmentation_X_Epilepsy/
         ├── data_setup/
         │   └── bids_to_centric.ipynb
         │
-        └── SynthSeg/
+        ├── SynthSeg/
         │   └── launch_synthSeg.ipynb
         │
         └── nnUNet_training/
