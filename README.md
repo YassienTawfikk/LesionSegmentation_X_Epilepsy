@@ -14,8 +14,7 @@ LesionSegmentation_X_Epilepsy/
 └── src/
     └── notebooks/
         ├── data_setup/
-        │   ├── dataset_overview.ipynb
-        │   └── dataset_to_centric.ipynb
+        │   └── bids_to_centric.ipynb
         │
         └── nnUNet_training/
             ├── FLAIR/
