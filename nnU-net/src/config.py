@@ -5,8 +5,9 @@ import sys
 # 1. Base Paths
 # ---------------------------------------------------------
 # Define the root directory for data relative to this config file
-# This assumes config.py is in nnU-net/
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# config.py is in nnU-net/src/
+# We want BASE_DIR to be nnU-net/
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DATA_ROOT = os.path.join(BASE_DIR, "data")
 
 # ---------------------------------------------------------
