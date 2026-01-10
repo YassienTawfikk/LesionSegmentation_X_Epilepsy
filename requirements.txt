@@ -1,0 +1,14 @@
+nnunetv2
+torch>=2.0.0
+torchvision
+torchaudio
+jupyter
+matplotlib
+seaborn
+pandas
+numpy
+iterative-stratification
+scikit-learn
+tqdm
+opencv-python
+pillow

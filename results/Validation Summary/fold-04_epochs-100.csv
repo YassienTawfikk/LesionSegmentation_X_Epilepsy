@@ -1,0 +1,2 @@
+Epoch,Train_Loss,Val_Loss,Val_Dice
+98,-0.4660,-0.5079,0.6496
